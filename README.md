@@ -12,10 +12,32 @@ Computer Graphics is a sub-field of computer science, that studies how to create
 
 ## Contents
 
+* **[What is computer graphics?](#what-is-computer-graphics)**
+* **[What do I need to know to get started?](#what-do-i-need-to-know-to-get-started)**
+* **[What if I want to learn more advanced stuff?](#what-if-i-want-to-learn-more-advanced-stuff)**
+* **[Very relevant materials](#very-relevant-materials)**
 * **[Books](#books)** 
 * **[Libraries](#libraries)**
 * **[Courses](#courses)**
 * **[Sites](#sites)**
+
+### What is computer graphics?
+Computer graphics is a knowledge area about how to create images using computers, to put it simply. Generally this is done by processing data representing information what you want to draw, for example: objects, colors, light. Anything about visual and digital creations have used CG in some way: games, movies, comics, you name it.
+
+### What do I need to know to get started?
+Before showing a lot of books, videos, and materials, first you need to know what is bare-minimum to begin with computer graphics. It boils down to two main topics: programming and math. About the programming, learn the basics, it's recommended 
+to lear C/C++ as they are used frequently in this area. The stuff you need to know about math can be found in [this tutorial](https://www.scratchapixel.com/lessons/mathematics-physics-for-computer-graphics/geometry). It teaches you the necessary 
+linear algebra and geometry to create CG programs.
+
+
+### What if I want to learn more advanced stuff?
+Assuming you know programming and math, then you can get more practical. It's a good approach to get a project about a topic 
+like global illumination, or GPU programming to deepen your knowledge on this area. Examples of projects are: path tracers, 
+photon mapping, shader programmind (this one is not necessarily advanced, but complex).
+
+### Very relevant materials
+Regardless of your level of proficiency, this sections show excellent resources that are worth noting first, be it because 
+their completness, relevance in the field, or any other quality. 
 
 
 ### Books
