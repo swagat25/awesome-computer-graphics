@@ -36,7 +36,7 @@ like global illumination, or GPU programming to deepen your knowledge on this ar
 photon mapping, shader programmind (this one is not necessarily advanced, but complex).
 
 ### Very relevant materials
-Regardless of your level of proficiency, this sections show excellent resources that are worth noting first, be it because 
+Regardless of your level of proficiency, this section shows excellent resources that are worth noting first, be it because 
 their completness, relevance in the field, or any other quality. 
 
 
