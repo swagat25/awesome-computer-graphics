@@ -25,8 +25,8 @@ Computer Graphics is a sub-field of computer science, that studies how to create
 Computer graphics is a knowledge area about how to create images using computers, to put it simply. Generally this is done by processing data representing information what you want to draw, for example: objects, colors, light. Anything about visual and digital creations have used CG in some way: games, movies, comics, you name it.
 
 ### What do I need to know to get started?
-Before showing a lot of books, videos, and materials, first you need to know what is bare-minimum to begin with computer graphics. It boils down to two main topics: programming and math. About the programming, learn the basics, it's recommended 
-to lear C/C++ as they are used frequently in this area. The stuff you need to know about math can be found in [this tutorial](https://www.scratchapixel.com/lessons/mathematics-physics-for-computer-graphics/geometry). It teaches you the necessary 
+Before showing a lot of books, videos, and materials, first you need to know what is bare-minimum to begin with computer graphics. It boils down to two main topics: programming and math. About programming, learn the basics, it's recommended 
+to learn C/C++ as they are used frequently in this area. The stuff you need to know about math can be found in [this tutorial](https://www.scratchapixel.com/lessons/mathematics-physics-for-computer-graphics/geometry). It teaches you the necessary 
 linear algebra and geometry to create CG programs.
 
 
