@@ -79,6 +79,7 @@ their completness, relevance in the field, or any other quality.
 * [ScratchAPixel](https://www.scratchapixel.com/index.php?#_=_), teaches image redering from basic to advanced.
 * [Learn OpenGL](https://learnopengl.com/), resource site, contains tutorials by topic, code examples and even has a pdf version of its contents.
 * [OpenGL tutorial](http://www.opengl-tutorial.org/), tutorial for learning OpenGL 3.3 or higher.
+* [Learn Vulkan](https://vulkan-tutorial.com/), teaches the modern API, created by the same team that created OpenGL.
 
 ## License
 
