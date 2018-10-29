@@ -4,9 +4,6 @@
 
 The Awesome CG List! A collection of various resources to learn computer graphics, including books, tutorials, online courses, and more. Name a CG topic, chances are this list contains some stuff about it (if not, it will someday!).
 
-**What is this "computer graphics" stuff?**
-Computer Graphics is a sub-field of computer science, that studies how to create images through computers, like games, movies and image editing. 
-
 **If you want to contribute, please read the [Contribution Guidelines](contributing.md)**
 
 
