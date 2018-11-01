@@ -10,8 +10,8 @@ The Awesome CG List! A collection of various resources to learn computer graphic
 ## Contents
 
 * **[What is computer graphics?](#what-is-computer-graphics)**
-* **[What do I need to know to get started?](#what-do-i-need-to-know-to-get-started)**
-* **[What if I want to learn more advanced stuff?](#what-if-i-want-to-learn-more-advanced-stuff)**
+* **[How to get started?](#how-to-get-started)**
+* **[I want to learn more advanced stuff?](#i-want-to-learn-more-advanced-stuff)**
 * **[Very relevant materials](#very-relevant-materials)**
 * **[Books](#books)** 
 * **[Libraries](#libraries)**
@@ -21,13 +21,13 @@ The Awesome CG List! A collection of various resources to learn computer graphic
 ### What is computer graphics?
 Computer graphics is a knowledge area about how to create images using computers, to put it simply. Generally this is done by processing data representing information what you want to draw, for example: objects, colors, light. Anything about visual and digital creations have used CG in some way: games, movies, comics, you name it.
 
-### What do I need to know to get started?
+### How to get started?
 Before showing a lot of books, videos, and materials, first you need to know what is bare-minimum to begin with computer graphics. It boils down to two main topics: programming and math. About programming, learn the basics, it's recommended 
 to learn C/C++ as they are used frequently in this area. The stuff you need to know about math can be found in [this tutorial](https://www.scratchapixel.com/lessons/mathematics-physics-for-computer-graphics/geometry). It teaches you the necessary 
 linear algebra and geometry to create CG programs.
 
 
-### What if I want to learn more advanced stuff?
+### I want to learn more advanced stuff
 Assuming you know programming and math, then you can get more practical. It's a good approach to get a project about a topic 
 like global illumination, or GPU programming to deepen your knowledge on this area. Examples of projects are: path tracers, 
 photon mapping, shader programming. Recommended projects are the PBRT, the ray tracer from the [Physically Based Rendering](http://www.pbr-book.org/3ed-2018/contents.html) book, and the ray tracer with photon mapping, from the [Realistic Image Synthesis Using Photon Mapping](https://www.amazon.com/Realistic-Synthesis-Mapping-Revised-Paperback/dp/B011DC2J3O/ref=sr_1_1?s=books&ie=UTF8&qid=1540518657&sr=1-1&keywords=photon+mapping).
