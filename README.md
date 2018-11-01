@@ -11,7 +11,7 @@ The Awesome CG List! A collection of various resources to learn computer graphic
 
 * **[What is computer graphics?](#what-is-computer-graphics)**
 * **[How to get started?](#how-to-get-started)**
-* **[I want to learn more advanced stuff?](#i-want-to-learn-more-advanced-stuff)**
+* **[I want to learn more advanced stuff](#i-want-to-learn-more-advanced-stuff)**
 * **[Very relevant materials](#very-relevant-materials)**
 * **[Books](#books)** 
 * **[Libraries](#libraries)**
