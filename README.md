@@ -42,7 +42,7 @@ their completness, relevance in the field, or any other quality.
 
 * [Physically Based Rendering: From Theory to Implementation](http://www.pbr-book.org/3ed-2018/contents.html), by Matt Pharr, teaches how to create a ray tracer to render realistic images. A thorough explanation of the technique, with as much code the theory behind it, and has a free online version!
 
-* [3D Math Primer for Graphics and Game Development](https://www.amazon.com/Math-Primer-Graphics-Game-Development/dp/1568817231/ref=sr_1_1?s=books&ie=UTF8&qid=1540517337&sr=1-1&keywords=3d+math+prime), by Fletcher Dunn, this book gives more focus to the math necessary for game development, this book does not cover topics like global illumination.
+* [3D Math Primer for Graphics and Game Development](https://www.amazon.com/Math-Primer-Graphics-Game-Development/dp/1568817231/ref=sr_1_1?s=books&ie=UTF8&qid=1540517337&sr=1-1&keywords=3d+math+prime), by Fletcher Dunn, this book gives more focus to the math necessary for game development.
 
 * [Ray Tracing from the Ground Up](http://www.raytracegroundup.com/), by Kevin Suffern, guides you through the task of implement a ray tracer, starting with a bare-bones project, and every chapter introduces a new conpect to add to the renderer.
 
