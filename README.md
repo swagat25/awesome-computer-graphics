@@ -40,7 +40,7 @@ their completness, relevance in the field, or any other quality.
 ### Books
 * [Real-Time Rendering](https://www.amazon.com/Real-Time-Rendering-Fourth-Tomas-Akenine-M%C3%B6ller/dp/1138627003/ref=sr_1_1?s=books&ie=UTF8&qid=1540516813&sr=1-1&dpID=51iw1UWKNhL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch), by Tomas Akenine-Moller, one of the best on high performance graphical applications, very detailed explanations and contains many examples to illustrate its topics.
 
-* [Physically Based Rendering](https://www.amazon.com/Physically-Based-Rendering-Theory-Implementation/dp/0128006455/ref=sr_1_1?s=books&ie=UTF8&qid=1540517251&sr=1-1&keywords=physically+based+rendering), by Matt Pharr, very code-focused book, goes back and forth between theory and its C++ implementations.
+* [Physically Based Rendering: From Theory to Implementation](http://www.pbr-book.org/3ed-2018/contents.html), by Matt Pharr, teaches how to create a ray tracer to render realistic images. A thorough explanation of the technique, with as much code the theory behind it, and has a free online version!
 
 * [3D Math Primer for Graphics and Game Development](https://www.amazon.com/Math-Primer-Graphics-Game-Development/dp/1568817231/ref=sr_1_1?s=books&ie=UTF8&qid=1540517337&sr=1-1&keywords=3d+math+prime), by Fletcher Dunn, this book gives more focus to the math necessary for game development, this book does not cover topics like global illumination.
 
