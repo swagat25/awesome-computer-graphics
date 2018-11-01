@@ -30,7 +30,7 @@ linear algebra and geometry to create CG programs.
 ### What if I want to learn more advanced stuff?
 Assuming you know programming and math, then you can get more practical. It's a good approach to get a project about a topic 
 like global illumination, or GPU programming to deepen your knowledge on this area. Examples of projects are: path tracers, 
-photon mapping, shader programmind (this one is not necessarily advanced, but complex).
+photon mapping, shader programming. Recommended projects are the PBRT, the ray tracer from the [Physically Based Rendering](http://www.pbr-book.org/3ed-2018/contents.html) book, and the ray tracer with photon mapping, from the [Realistic Image Synthesis Using Photon Mapping](https://www.amazon.com/Realistic-Synthesis-Mapping-Revised-Paperback/dp/B011DC2J3O/ref=sr_1_1?s=books&ie=UTF8&qid=1540518657&sr=1-1&keywords=photon+mapping).
 
 ### Very relevant materials
 Regardless of your level of proficiency, this section shows excellent resources that are worth noting first, be it because 
