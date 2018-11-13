@@ -22,9 +22,7 @@ Computer graphics is a knowledge area about how to create images using computers
 
 ### How to get started?
 Before showing a lot of books, videos, and materials, first you need to know what is bare-minimum to begin with computer graphics. It boils down to two main topics: programming and math. About programming, learn the basics, it's recommended 
-to learn C/C++ as they are used frequently in this area. The stuff you need to know about math can be found in [this tutorial](https://www.scratchapixel.com/lessons/mathematics-physics-for-computer-graphics/geometry). It teaches you the necessary 
-linear algebra and geometry to create CG programs.
-
+to learn C/C++ as they are used frequently in this area. Concerning math, learn linear algebra and geometry, there are books in this list focused on math fundamentals for CG, pick one and work on it.
 
 ### I want to learn more advanced stuff
 Assuming you know programming and math, then you can get more practical. It's a good approach to get a project about a topic 
