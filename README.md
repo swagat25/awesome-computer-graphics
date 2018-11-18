@@ -18,7 +18,7 @@ The Awesome CG List! A collection of various resources to learn computer graphic
 * **[Sites](#sites)**
 
 ### What is computer graphics?
-Computer graphics is a knowledge area about how to create images using computers, to put it simply. Generally this is done by processing data representing information what you want to draw, for example: objects, colors, light. Anything about visual and digital creations have used CG in some way: games, movies, comics, you name it.
+Computer graphics is a knowledge area about how to create images using computers, to put it simply. Generally this is done by processing data representing information what you want to draw, for example: objects, colors, light. Anything about visual and digital creations have used CG in some way: games, movies, etc.
 
 ### How to get started?
 Before showing a lot of books, videos, and materials, first you need to know what is bare-minimum to begin with computer graphics. It boils down to two main topics: programming and math. About programming, learn the basics, it's recommended 
