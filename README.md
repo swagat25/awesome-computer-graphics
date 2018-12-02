@@ -35,6 +35,8 @@ photon mapping, shader programming. Recommended projects are the PBRT, the ray t
 
 * [Ray Tracing in One Weekend](http://www.realtimerendering.com/raytracing/Ray%20Tracing%20in%20a%20Weekend.pdf), by Peter Shirley, a free book to get you implementing a basic ray tracer in C++, the catch is: this one is very short (about 40 pages), you'll learn the mininum to create a ray tracer to generate amazing images in a very short ammount of time!
 
+* [Ray Tracing: The Next Week](http://www.realtimerendering.com/raytracing/Ray%20Tracing_%20The%20Next%20Week.pdf), by Peter Shirley, builds on top of the first books's project, adding more effects, like textures and motion blur.
+
 * [Physically Based Rendering: From Theory to Implementation](http://www.pbr-book.org/3ed-2018/contents.html), by Matt Pharr, teaches how to create a ray tracer to render realistic images. A thorough explanation of the technique, with as much code the theory behind it, and has a free online version!
 
 * [3D Math Primer for Graphics and Game Development](https://www.amazon.com/Math-Primer-Graphics-Game-Development/dp/1568817231/ref=sr_1_1?s=books&ie=UTF8&qid=1540517337&sr=1-1&keywords=3d+math+prime), by Fletcher Dunn, this book gives more focus to the math necessary for game development.
